@@ -1,0 +1,17 @@
+[
+  {
+    "question": "這個 chatbot 是什麼？",
+    "answer": "這是一個知識問答 chatbot，回答內容來自預先爬取的網站資料與手動建立的問答檔案。",
+    "tags": ["介紹", "chatbot"]
+  },
+  {
+    "question": "如何新增問答資料？",
+    "answer": "在 data/qa/ 目錄下新增 JSON 檔案，格式為包含 question 和 answer 欄位的物件陣列，然後重新執行爬蟲腳本即可更新知識庫。",
+    "tags": ["使用說明", "設定"]
+  },
+  {
+    "question": "如何新增要爬取的網站？",
+    "answer": "編輯 scraper/config.json 檔案，在 sources 陣列中新增一筆包含 url、selector 和 name 的設定即可。",
+    "tags": ["使用說明", "設定"]
+  }
+]

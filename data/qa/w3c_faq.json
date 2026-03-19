@@ -1,0 +1,67 @@
+[
+  {
+    "question": "W3C 是什麼？W3C 代表什麼？",
+    "answer": "W3C 是 World Wide Web Consortium（全球資訊網協會）的縮寫。W3C 是一個國際標準組織，由會員組織、全職工作人員與公眾共同合作，致力於開發 Web 標準。W3C 由 Web 發明人 Tim Berners-Lee 領導，使命是引領 Web 發揮其全部潛力。2023 年 1 月，W3C 正式成為獨立法人實體，轉型為公益非營利組織。",
+    "tags": ["W3C", "組織", "簡介"]
+  },
+  {
+    "question": "W3C 的主要工作是什麼？",
+    "answer": "W3C 的主要工作是開發確保 Web 長期成長的協議與指導方針。W3C 的標準定義了全球資訊網運作的核心技術，包括 HTML、CSS、SVG、WOFF、WebRTC、XML 等，以及不斷增加的各種 API。",
+    "tags": ["W3C", "任務", "標準"]
+  },
+  {
+    "question": "網際網路（Internet）和全球資訊網（Web）有什麼不同？",
+    "answer": "網際網路（Internet）是一個使用標準化的網際網路協定套件（TCP/IP）透過封包交換來傳輸資料的全球互聯電腦網路系統。全球資訊網（Web）則是一個資訊空間，其中的資源透過統一資源識別碼（URI）來識別。簡單來說，Internet 是底層的網路基礎設施，Web 是運行在其上的一種應用服務。Tim Berners-Lee（Web 的發明者）和 Vinton Cerf（Internet 的發明者）在 2014 年 W3C 二十週年活動中甚至穿了特製 T 恤來強調兩者的區別。",
+    "tags": ["Internet", "Web", "差異", "基礎知識"]
+  },
+  {
+    "question": "全球資訊網是誰發明的？Web 的歷史是什麼？",
+    "answer": "Sir Tim Berners-Lee 於 1989 年撰寫了一份名為「World Wide Web」的系統提案。隨後他開發了第一個網頁瀏覽器、伺服器和網頁，並撰寫了 URL、HTTP 和 HTML 的初始規格。這奠定了全球資訊網的基礎。",
+    "tags": ["歷史", "Tim Berners-Lee", "發明"]
+  },
+  {
+    "question": "什麼是 Web 標準？",
+    "answer": "Web 標準是構建一致且和諧的數位連接世界的藍圖和基石。它們被瀏覽器、部落格、搜尋引擎和其他軟體實作，驅動我們在 Web 上的體驗。W3C 標準定義了一個開放的 Web 平台，讓開發者能夠建立豐富的互動體驗，並可在任何裝置上使用。",
+    "tags": ["Web 標準", "定義"]
+  },
+  {
+    "question": "W3C 如何制定標準？標準的制定流程是什麼？",
+    "answer": "W3C 依照 W3C Process 開發技術規格，此流程旨在最大化共識、確保品質，並獲得 W3C 會員及更廣泛社群的認可與採用。流程強調公平性、開放性和免專利費。技術報告會經歷以下成熟度階段：1. Working Draft（工作草案）：進行中的工作，不代表共識；2. Candidate Recommendation（候選推薦標準）：穩定的草案，向社群徵求實作經驗與回饋；3. Proposed Recommendation（提議推薦標準）：經過廣泛審查的成熟技術報告，送交諮詢委員會做最終認可；4. W3C Recommendation（W3C 推薦標準）：經過廣泛共識建立後獲得 W3C 認可的正式標準。",
+    "tags": ["標準流程", "Recommendation Track", "制定過程"]
+  },
+  {
+    "question": "W3C Recommendation 是什麼？",
+    "answer": "W3C Recommendation（W3C 推薦標準）是一套經過廣泛共識建立後獲得 W3C 認可的規格、指導方針或要求。W3C 推薦廣泛部署 Recommendation 作為 Web 標準。這些文件可被引用為 W3C 標準。",
+    "tags": ["W3C Recommendation", "標準", "定義"]
+  },
+  {
+    "question": "W3C 會背書特定產品或廠商嗎？",
+    "answer": "不會。W3C 是一個廠商中立的組織，不會為任何廠商、廠商產品、特定產品、服務或網站背書。W3C 也不會背書任何特定軟體。但由於提供實作規格的軟體連結很有用，W3C 經常會連結到多個產品或服務。",
+    "tags": ["背書", "中立", "廠商"]
+  },
+  {
+    "question": "W3C 接受訪客投稿或付費內容嗎？",
+    "answer": "不接受。W3C 不允許在 W3C Blog 或 W3C 網站上刊登訪客投稿和付費內容。這與 W3C 不為特定產品或服務背書的立場一致。",
+    "tags": ["部落格", "投稿", "政策"]
+  },
+  {
+    "question": "收到來自 w3.org 的垃圾郵件怎麼辦？",
+    "answer": "很遺憾，有時候會有人偽造電子郵件地址。許多 W3C 的電子郵件地址對公眾來說非常可見，這使它們成為偽造的目標。因此，您收到的看似從 w3.org 地址發送的垃圾郵件，僅表示該地址被用來發送偽造的電子郵件，並非真正由 W3C 發出。",
+    "tags": ["垃圾郵件", "spam", "email"]
+  },
+  {
+    "question": "W3C 的組織架構是什麼？W3C 如何運作？",
+    "answer": "W3C 是一個會員組織，成員來自企業界、學術界、政府和非營利組織。其會員與 W3C 工作人員共同領導技術工作並決定 Web 新工作的方向。W3C 工作人員分布在全球各地，主要集中在劍橋（美國）、索菲亞安提波利斯（法國）、東京（日本）和北京（中國）等歷史東道主機構所在地。2023 年 1 月，W3C 在歷經 28 年後正式成為獨立的公益非營利法人組織。",
+    "tags": ["組織", "架構", "會員"]
+  },
+  {
+    "question": "W3C 發布了哪些類型的文件？",
+    "answer": "W3C 在推薦標準軌道（Recommendation Track）上發布的技術報告包含不同的成熟度階段：Working Draft（工作草案）、Candidate Recommendation（候選推薦標準）、Proposed Recommendation（提議推薦標準）和 W3C Recommendation（W3C 推薦標準）。這些文件旨在最終產生作為 Web 標準的規範性規格或指導方針。",
+    "tags": ["文件類型", "技術報告", "成熟度"]
+  },
+  {
+    "question": "W3C 有哪些關鍵技術？",
+    "answer": "W3C 及其合作夥伴正在打造的核心 Web 技術包括：HTML（網頁標記語言，Web 的基石）、CSS（層疊樣式表）、SVG（可縮放向量圖形）、WOFF（Web 開放字型格式）、WebRTC（Web 即時通訊）、XML（可擴展標記語言），以及持續增長的各種 Web API。",
+    "tags": ["技術", "HTML", "CSS", "SVG", "WebRTC"]
+  }
+]

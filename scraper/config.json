@@ -1,0 +1,27 @@
+{
+  "sources": [
+    {
+      "url": "https://www.w3.org/help/",
+      "selector": "main",
+      "name": "W3C Help & FAQ"
+    },
+    {
+      "url": "https://www.w3.org/standards/about/",
+      "selector": "main",
+      "name": "About W3C Web Standards"
+    },
+    {
+      "url": "https://www.w3.org/standards/types/",
+      "selector": "main",
+      "name": "W3C Document Types"
+    },
+    {
+      "url": "https://www.w3.org/standards/faq.html",
+      "selector": "main",
+      "name": "W3C Standards FAQ"
+    }
+  ],
+  "scrape_interval_hours": 24,
+  "max_content_length": 5000,
+  "user_agent": "Mozilla/5.0 (compatible; ChatBot-Scraper/1.0)"
+}
